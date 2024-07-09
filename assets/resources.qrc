@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file>KRSW.png</file>
+    <file>light/add.svg</file>
+    <file>light/edit.svg</file>
+    <file>light/play.svg</file>    
+    <file>light/pause.svg</file>    
+    <file>dark/add.svg</file>
+    <file>dark/edit.svg</file>
+    <file>dark/play.svg</file>    
+    <file>dark/pause.svg</file>
+  </qresource>
+</RCC>
